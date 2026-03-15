@@ -1,0 +1,32 @@
+=== FILE SORTING REPORT ===
+Date & Time: 2026-03-15_22-45-00
+Total files scanned in Input folder: 22
+
+--- Moved to HR (5 files) ---
+  - Test3_Q1.docx (Type: .docx)
+  - Test7_Q1.docx (Type: .docx)
+  - Test2Q1.docx (Type: .docx)
+  - Test1-Q1.pdf (Type: .pdf)
+  - Q1Test4 (Type: Unknown)
+
+--- Moved to Ops (4 files) ---
+  - Test5_Q2.docx (Type: .docx)
+  - Test6Q2.docx (Type: .docx)
+  - Test5_Q2.pdf (Type: .pdf)
+  - Test1_Q2 (Type: Unknown)
+
+--- Sent to Needs_Review / Exceptions (13 files) ---
+  - Test.xlsx (Type: .xlsx)
+  - Test1.docx (Type: .docx)
+  - Test4.docx (Type: .docx)
+  - Test2.pdf (Type: .pdf)
+  - Test7.pdf (Type: .pdf)
+  - Test8.pdf (Type: .pdf)
+  - Test9.pdf (Type: .pdf)
+  - Test10.pdf (Type: .pdf)
+  - Test2 (Type: Unknown)
+  - Test3__q2.pdf (Type: .pdf)
+  - Test4_q1.pdf (Type: .pdf)
+  - q1Test6.pdf (Type: .pdf)
+  - Test3_q1 (Type: Unknown)
+===========================
