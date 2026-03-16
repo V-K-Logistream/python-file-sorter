@@ -12,8 +12,8 @@ Purpose: To demonstrate the delegation of technical tasks and management of AI-a
 
 This repository is a practical output of the Anthropic "AI Fluency: Framework & Foundations" course.
 
-    Project Manager: V-K-Logistream (Logic validation, QA, Deployment).
+Project Manager: V-K-Logistream (Logic validation, QA, Deployment).
 
-    AI Collaborator: Gemini 3 Flash (Code generation and refinement).
+AI Collaborator: Gemini 3 Flash (Code generation and refinement).
 
-    Purpose: Portfolio piece demonstrating the ability to manage AI-assisted technical workflows.
+Purpose: Portfolio piece demonstrating the ability to manage AI-assisted technical workflows.
